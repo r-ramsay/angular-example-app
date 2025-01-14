@@ -3,8 +3,6 @@
   "version": "19.0.0",
   "scripts": {
     "prepare": "husky install",
-    "start": "ng serve --configuration=development-en",
-    "start:es": "ng serve --configuration=development-es",
     "extract": "ng extract-i18n --format=xlf --output-path=src/locale",
     "lint": "ng lint && npm run stylelint",
     "stylelint": "npx stylelint \"**/*.{css,scss}\"",
