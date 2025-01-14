@@ -64,7 +64,7 @@
                 }
               ],
               "outputHashing": "all",
-              "localize": ["es", "en"]
+              "localize": ["en"]
             },
             "production-sourcemaps": {
               "sourceMap": true,
